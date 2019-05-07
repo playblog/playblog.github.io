@@ -98,7 +98,7 @@
 		<div class="container">
 			<div class="footer-main">
 				<div class="col-md-3 footet-left">
-<div><a href="register.php"><h4 style=" font-family: 'Comfortaa', cursive; margin-top: -1775px; color: white; margin-left: 680px;">Регистрация</h4></a></div>
+<!-------<div><a href="register.php"><h4 style=" font-family: 'Comfortaa', cursive; margin-top: -1775px; color: white; margin-left: 680px;">Регистрация</h4></a></div>--->
 					</div>
 				</div>
 				<div class="clearfix"> </div>
